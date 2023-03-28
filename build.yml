@@ -10,7 +10,7 @@ spec:
     type: Git
     git:
       uri: 'https://github.com/Velraj55/greeting-console'
-      ref: main
+      ref: master
   output:
     to:
       kind: DockerImage
